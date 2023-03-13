@@ -29,3 +29,5 @@ Profissional em transição de Carreira para a área de Tecnologia da informaç�
 
 ### Email para contato
 andresampaio37@outlook.com
+
+![snake gif](https://github.com/dreds1522/dreds1522/blob/output/github-contribution-grid-snake.svg)
