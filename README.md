@@ -4,6 +4,16 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-sampaio-desenvolvedor/)
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre.sampaio.38/)
 
+<div align="">
+ 
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+Profissional em transição de Carreira para a área de Tecnologia da informação, aprimorando seus skills em programação Full-Stack Java, com experiências anteriores no segmento administrativo em geral (Atendimento ao cliente, logística, compras, vendas, transporte, comercial, faturamento e financeiro). 
+
+<br/>
+
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=dreds1522&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreds1522)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,17 +33,11 @@
 </div>
 <br/>
 
-Profissional em transição de Carreira para a área de Tecnologia da informação, aprimorando seus skills em programação Full-Stack Java, com experiências anteriores no segmento administrativo em geral (Atendimento ao cliente, logística, compras, vendas, transporte, comercial, faturamento e financeiro). 
 
-<br/>
 
 ### Email para contato
 andresampaio37@outlook.com
 
 
 
-<div align="center">
- 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
-</div>
