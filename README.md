@@ -1,4 +1,5 @@
-### Olá! me chamo André Sampaio ✌️
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1020&lines=Hello!+I+am+André+Sampaio✌️;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/andre.sampaio.587)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-sampaio-desenvolvedor/)
